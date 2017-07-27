@@ -1,3 +1,3 @@
 #!/bin/sh
 
-if [ hoge 
+echo ok
