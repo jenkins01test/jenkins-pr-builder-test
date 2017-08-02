@@ -1,7 +1,5 @@
-#!/bin/bash
+#!/bin/sh
 
-
-if [ hogehoge ]
-then
+if [hogehoge
   echo error
 fi
