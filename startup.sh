@@ -1,5 +1,3 @@
 #!/bin/sh
 
-if [hogehoge
-  echo error
-fi
+echo hogehoge
